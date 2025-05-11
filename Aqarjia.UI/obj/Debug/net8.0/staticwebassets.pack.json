@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dalalaljassem/aqarjia-frontend/Aqarjia.UI/obj/Debug/net8.0/scopedcss/projectbundle/Aqarjia.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets/Aqarjia.UI.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/dalalaljassem/aqarjia-frontend/Aqarjia.UI/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/dalalaljassem/aqarjia-frontend/Aqarjia.UI/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dalalaljassem/aqarjia-frontend/Aqarjia.UI/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/dalalaljassem/aqarjia-frontend/Aqarjia.UI/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Aqarjia.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Aqarjia.UI.props",
+      "PackagePath": "build\\Aqarjia.UI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Aqarjia.UI.props",
+      "PackagePath": "buildMultiTargeting\\Aqarjia.UI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Aqarjia.UI.props",
+      "PackagePath": "buildTransitive\\Aqarjia.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
