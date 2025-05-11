@@ -1,0 +1,21 @@
+:root {
+    --primary-light: #96B9FF;    /* Light gradient start */
+    --primary: #3A86FF;          /* Main brand color */
+    --primary-dark: #2156D9;     /* Dark gradient end / hover */
+
+    /* Accent + Status Colors */
+    --secondary: #8338EC;
+    --success: #06D6A0;
+    --warning: #FFBE0B;
+    --error: #FF006E;
+
+    /* Neutrals */
+    --white: #FFFFFF;
+    --gray-light: #F5F7FA;
+    --gray: #E0E0E0;
+    --black: #212529;
+
+    /* Borders + Background */
+    --border: #E0E0E0;
+    --background: #F9FAFB;
+}

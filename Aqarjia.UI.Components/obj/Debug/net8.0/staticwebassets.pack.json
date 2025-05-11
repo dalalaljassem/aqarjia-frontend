@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dalalaljassem/aqarjia-frontend/Aqarjia.UI.Components/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/dalalaljassem/aqarjia-frontend/Aqarjia.UI.Components/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Aqarjia.UI.Components.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Aqarjia.UI.Components.props",
+      "PackagePath": "build\\Aqarjia.UI.Components.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Aqarjia.UI.Components.props",
+      "PackagePath": "buildMultiTargeting\\Aqarjia.UI.Components.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Aqarjia.UI.Components.props",
+      "PackagePath": "buildTransitive\\Aqarjia.UI.Components.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

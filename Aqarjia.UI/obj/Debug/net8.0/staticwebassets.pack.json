@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/app.css"
     },
     {
+      "Id": "/Users/dalalaljassem/aqarjia-frontend/Aqarjia.UI/wwwroot/aqarjia.css",
+      "PackagePath": "staticwebassets/aqarjia.css"
+    },
+    {
       "Id": "/Users/dalalaljassem/aqarjia-frontend/Aqarjia.UI/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aqarjia.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce7645ea8d4d958a475b53a955dcaebe9027d5b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aqarjia.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aqarjia.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+:root{
+        --font-base: 'Inter', 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+        --text-xs: 0.75rem;
+        --text-sm: 0.875rem;
+        --text-base: 1rem;
+        --text-lg: 1.125rem;
+        --text-xl: 1.5rem;
+        --font-regular: 400;
+        --font-semibold: 600;
+        --font-bold: 700;
+}
